@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rochub-project-api:
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2021-02-19T10:36:04.92717-06:00"
+    description: A Helm chart for Kubernetes
+    digest: d70400daf12589dd5d01f8cecba8bcae3b86cd1fe266b69356635b9956f1aa1a
+    name: rochub-project-api
+    type: application
+    urls:
+    - rochub-project-api-1.tgz
+    version: "1"
+generated: "2021-02-19T10:36:04.9261745-06:00"
